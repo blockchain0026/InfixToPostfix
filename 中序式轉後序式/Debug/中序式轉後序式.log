@@ -1,0 +1,17 @@
+﻿已經開始建置於 2015/11/14 下午 03:07:38。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\User\documents\visual studio 2015\Projects\中序式轉後序式\中序式轉後序式\中序式轉後序式.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\中序式轉後序式.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "中序式轉後序式.cpp"
+         中序式轉後序式.cpp
+     1>c:\users\user\documents\visual studio 2015\projects\中序式轉後序式\中序式轉後序式\中序式轉後序式.cpp(89): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+     1>c:\users\user\documents\visual studio 2015\projects\中序式轉後序式\中序式轉後序式\中序式轉後序式.cpp(43): warning C4101: 'token': 未參考的區域變數
+     1>c:\users\user\documents\visual studio 2015\projects\中序式轉後序式\中序式轉後序式\中序式轉後序式.cpp(121): warning C4101: 'test': 未參考的區域變數
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\user\documents\visual studio 2015\Projects\中序式轉後序式\Debug\中序式轉後序式.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\user\documents\visual studio 2015\Projects\中序式轉後序式\Debug\中序式轉後序式.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\user\documents\visual studio 2015\Projects\中序式轉後序式\Debug\中序式轉後序式.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\中序式轉後序式.obj"
+         中序式轉後序式.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\中序式轉後序式\Debug\中序式轉後序式.exe
+     1>專案 "c:\Users\User\documents\visual studio 2015\Projects\中序式轉後序式\中序式轉後序式\中序式轉後序式.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:03.26
